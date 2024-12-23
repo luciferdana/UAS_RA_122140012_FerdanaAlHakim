@@ -27,7 +27,7 @@ Proyek  ini adalah aplikasi web sederhana untuk mengelola akun pengguna dan tran
 
 ### 1. Persiapan
 - Pastikan aplikasi web berjalan dengan baik di lingkungan lokal.
-- Verifikasi semua dependensi, file, dan folder (contoh: CSS, JavaScript, database).
+- Verifikasi semua dependensi, file, dan folder .
 
 ### 2. Platform Hosting
 - Pilih InfinityFree sebagai platform hosting.
