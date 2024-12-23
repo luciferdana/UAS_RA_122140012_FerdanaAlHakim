@@ -95,5 +95,6 @@ Proyek  ini adalah aplikasi web sederhana untuk mengelola akun pengguna dan tran
 - Pastikan untuk menguji semua fitur setelah deployment untuk memastikan stabilitas.
 
 ---
-Untuk informasi lebih lanjut, silakan merujuk ke kode sumber atau hubungi pengembang.
+## Demo
+http://uas-pemweb-ferdana.free.nf/
 
